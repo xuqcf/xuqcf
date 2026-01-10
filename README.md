@@ -1,6 +1,6 @@
 ## Hey, I’m Abdullah 👋
 
-I’m a 17-year-old high school student from the United States who’s deeply curious about how technology, ideas, and systems come together to shape the future.
+I’m a 17-year-old high school student from the United States who’s deeply curious about technology and how it can shape the future.
 
 Right now, I’m building **Qadr AI**, a project focused on using technology to support discipline, learning, and personal growth, especially within the Muslim community. It’s still an early project, and I’m learning as I go, but that’s kind of the point. I enjoy working through unexplored territories, breaking things, fixing them, and slowly understanding how real products are built.
 
