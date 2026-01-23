@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Abdullah 👋</h1>
-<h3 align="center">Founder • Student • Builder • Arch Linux User 💀</h3>
+<h3 align="center">Founder • Student • Entreprunuer </h3>
 
 <p align="center">
   I build faith-driven technology, experiment with systems, and turn ideas into real products.<br/>
