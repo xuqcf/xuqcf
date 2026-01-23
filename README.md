@@ -10,12 +10,12 @@
 
 ## 💫 About Me
 
-- 🔭 Currently building **Qadr AI** — faith-tech, NFC wearables, and AI for deen  
-- 👯 Open to collaborating on **open-source tools, startups, and meaningful tech**  
-- 🤝 Looking for help with **AI/ML pipelines, product scaling, and system design**  
-- 🌱 Learning **Go, systems programming, AI/ML, and Arabic (conversational + Qur’anic)**  
-- 💬 Ask me about **Linux ricing, startups, IB CS, or building in public**  
-- ⚡ Fun fact: I daily-drive **Arch Linux** and enjoy breaking it just to fix it  
+- 🔭 Currently building Qadr AI — faith-tech, NFC wearables, and AI for deen  
+- 👯 Open to collaborating on open-source tools, startups, and meaningful tech  
+- 🤝 Looking for help with AI/ML pipelines, product scaling, and system design  
+- 🌱 Learning Go, systems programming, AI/ML, and Arabic (conversational + Qur’anic) 
+- 💬 Ask me about Linux ricing, startups, IB CS, or building in public 
+- ⚡ Fun fact: I use Arch Linux as my main distro and enjoy breaking it just to fix it  
 
 > “Build what benefits people. The rest follows.”
 
