@@ -3,9 +3,9 @@
 **Founder · Student · Builder**
 
 IB student by day. Midnight builder by everything else.
-Currently deep in **Qadr AI** — faith-tech for Muslims: AI tools, NFC wearables, and software built around *deen*.
+Currently deep in Tech —  AI tools, NFC wearables, and software built around *helping people* :).
 
-> *"Build what benefits people. The rest follows."*
+> *"Build what benefits people. The rest follows." is my core philosophy*
 
 ---
 
