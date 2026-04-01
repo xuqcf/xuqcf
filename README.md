@@ -11,7 +11,6 @@ Currently deep in Tech —  AI tools, NFC wearables, and software built around *
 
 ## about
 
-- building Qadr AI — spiritual-tech platform, NFC integrations, AI for Islamic practice
 - open to collabs on open-source tools, startups, and things that matter
 - learning Go properly, Arabic (conversational + Qur'anic), and AI/ML systems
 - daily driving Arch Linux — yes, i enjoy breaking it
