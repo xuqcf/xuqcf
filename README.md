@@ -44,7 +44,7 @@ Currently deep in Tech —  AI tools, NFC wearables, and software built around *
 ## stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xuqcf&theme=dark&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=xuqcf&theme=dark&hide_border=true&show_icons=true" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=xuqcf&theme=dark&hide_border=true" />
   <br/>
