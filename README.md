@@ -12,7 +12,7 @@ Currently deep in Tech —  AI tools, NFC wearables, and software built around *
 ## about
 
 - open to collabs on open-source tools, startups, and things that matter
-- learning Go properly, Arabic (conversational + Qur'anic), and AI/ML systems
+- learning Go properly, AI/ML systems, Data Structured and Algorithms
 - daily driving Arch Linux — yes, i enjoy breaking it
 - ask me about Linux ricing, IB CS, or building in public
 
