@@ -1,21 +1,23 @@
 # Abdullah
 
-**Founder · Student · Builder**
+**Founder · Student · Engineer**
 
-IB student by day. Midnight builder by everything else.
-Currently deep in Tech —  AI tools, NFC wearables, and software built around *helping people* :).
+I bang my head on keyboard and code comes out.
 
-> *"Build what benefits people. The rest follows." is my core philosophy*
+Currently deep in Tech like AI/ML pipelines, and software built around *helping people* :).
+
+> "Make the best use of what is in your power, and take the rest as it happens." - Epictetus
 
 ---
 
 ## about
 
 - open to collabs on open-source tools, startups, and things that matter
-- learning Go properly, AI/ML systems, Data Structured and Algorithms
-- daily driving Arch Linux — yes, i enjoy breaking it
+- learning Go properly, AI/ML systems, Data Structures and Algorithms
+- daily driving Arch Linux, yes, i enjoy breaking it (i dont)
 - ask me about Linux ricing, IB CS, or building in public
 
+https://www.pinterest.com/ideas/ichigo-discord-banner-gif/952314978199/
 ---
 
 ## stack
