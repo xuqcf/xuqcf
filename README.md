@@ -18,8 +18,6 @@ Currently deep in Tech like AI/ML pipelines, and software built around *helping 
 - ask me about Linux ricing!
 , IB CS, or building in public
 ---
-  
-  ![Uploading 224300.gif…]()
 
 
 
