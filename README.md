@@ -19,6 +19,8 @@ Currently deep in Tech like AI/ML pipelines, and software built around *helping 
 , IB CS, or building in public
 ---
 
+[224300](https://github.com/user-attachments/assets/f53c0328-191e-4ab9-84d7-c1bbfe72932d)
+
 ## stack
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
