@@ -17,9 +17,9 @@ Currently deep in Tech like AI/ML pipelines, and software built around *helping 
 - daily driving Arch Linux, yes, i enjoy breaking it (i dont)
 - ask me about Linux ricing!
 , IB CS, or building in public
----
+---![Uploading 224300.gif…]()
 
-[224300](https://github.com/user-attachments/assets/f53c0328-191e-4ab9-84d7-c1bbfe72932d)
+
 
 ## stack
 
