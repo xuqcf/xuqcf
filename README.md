@@ -1,4 +1,4 @@
-![224300](https://github.com/user-attachments/assets/c54ee32b-42ef-4e79-bedc-2b15c56ee8dd)![224300](https://github.com/user-attachments/assets/f53c0328-191e-4ab9-84d7-c1bbfe72932d)# Abdullah
+# Abdullah
 
 **Founder · Student · Engineer**
 
