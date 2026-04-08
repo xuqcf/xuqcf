@@ -17,7 +17,7 @@ Currently deep in Tech like AI/ML pipelines, and software built around *helping 
 - daily driving Arch Linux, yes, i enjoy breaking it (i dont)
 - ask me about Linux ricing, IB CS, or building in public
 
-[https://www.pinterest.com/ideas/ichigo-discord-banner-gif/952314978199/](https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif)
+[[https://www.pinterest.com/ideas/ichigo-discord-banner-gif/952314978199/](https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif)](https://alphacoders.com/manga-gifs)
 ---
 
 ## stack
