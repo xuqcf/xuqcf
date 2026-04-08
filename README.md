@@ -1,4 +1,4 @@
-# Abdullah
+![224300](https://github.com/user-attachments/assets/c54ee32b-42ef-4e79-bedc-2b15c56ee8dd)![224300](https://github.com/user-attachments/assets/f53c0328-191e-4ab9-84d7-c1bbfe72932d)# Abdullah
 
 **Founder · Student · Engineer**
 
@@ -15,9 +15,10 @@ Currently deep in Tech like AI/ML pipelines, and software built around *helping 
 - open to collabs on open-source tools, startups, and things that matter
 - learning Go properly, AI/ML systems, Data Structures and Algorithms
 - daily driving Arch Linux, yes, i enjoy breaking it (i dont)
-- ask me about Linux ricing, IB CS, or building in public
+- ask me about Linux ricing!
+, IB CS, or building in public
 
-https://alphacoders.com/manga-gifs
+[Uploading 224300.gif…]()
 ---
 
 ## stack
