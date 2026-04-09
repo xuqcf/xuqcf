@@ -14,7 +14,7 @@ Currently deep in Tech like AI/ML pipelines, and software built around *helping 
 
 - open to collabs on open-source tools, startups, and things that matter
 - learning Go properly, AI/ML systems, Data Structures and Algorithms
-- daily driving Arch Linux, yes, i enjoy breaking it (i dont)
+- daily driving Arch Linux, yes, I enjoy breaking it (I dont)
 - ask me about Linux ricing!
 , IB CS, or building in public
 ---
