@@ -13,4 +13,4 @@ Founder · Student · Engineer
 
 ## stats
 
-<img src="https://github-stats-extended.vercel.app/api?username=xuqcf&theme=dark&hide_border=true&show_icons=true&border_radius=12" />
+<img src="https://github-stats-extended.vercel.app/api?username=xuqcf&show_icons=true&hide_border=true&border_radius=12&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=f78166" />
