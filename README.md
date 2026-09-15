@@ -2,11 +2,9 @@
 
 Founder · Student · Engineer
 
-I bang my head on keyboard and code comes out.
-
 - building AI/ML pipelines and software that helps people
 - learning Go, AI/ML systems, DSA
-- daily driving Arch Linux
+- daily driving Arch Linux, NeoVim, Hyprland, MacOS
 - open to collabs on open-source, startups, things that matter
 
 ## stack
